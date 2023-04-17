@@ -1,0 +1,3 @@
+P1.https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+P2.https://github.com/TeaPearce/Conditional_Diffusion_MNIST
+P3.https://github.com/wogong/pytorch-dann?fbclid=IwAR3jypcJ5JxQbkkvxfnEyUkOawl1rxJG_c8o-TRxfOGwNbaxB9SKFLpGjE0
